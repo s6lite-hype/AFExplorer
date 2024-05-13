@@ -13,7 +13,7 @@
 
 ## I have downloaded the program, what should I do?
 > When you first started the program, you'll see a screen like this:
-![[When settings.ini not configured yet]]([https://i.imgur.com/hWrHaJJ.jpeg])
+![[When settings.ini not configured yet]]([https://github.com/s6lite-hype/AFExplorer/blob/main/WhatsApp%20Image%202024-05-13%20at%2013.10.25_608f89bd.jpg])
 > First thing first, navigate to the folder and create a new file called  `settings.ini` and paste this code
 ```ini
 [Android Debug Bridge Config]
