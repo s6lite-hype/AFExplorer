@@ -14,7 +14,7 @@
 ## I have downloaded the program, what should I do?
 > When you first started the program, you'll see a screen like this:
 
-![](./fs3.jpg)
+![](./assets/githubREADME_startFirstTime.jpg)
 > First thing first, Close the program (if you started it), navigate to the folder and create a new file called  `settings.ini` or the file is already created by the program, if not create it and paste this code
 ```ini
 [Android Debug Bridge Config]
