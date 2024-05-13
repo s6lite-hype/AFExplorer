@@ -15,13 +15,12 @@
 > When you first started the program, you'll see a screen like this:
 
 ![](./fs3.jpg)
-> First thing first, navigate to the folder and create a new file called  `settings.ini` and paste this code
+> First thing first, Close the program (if you started it), navigate to the folder and create a new file called  `settings.ini` or the file is already created by the program, if not create it and paste this code
 ```ini
 [Android Debug Bridge Config]
-path="<replace this with your own path config>"
+path="<replace this with your own adb path config>"
 version="2.1.3"
 ```
 > For the path, make sure that you copy a single line of path when the program is running or type it by hand when the program is closed because :
 > 1. The program has no delay, which mean it will autmatically entered what do you put in the path
 > 2. This usually can break some stuff
-
