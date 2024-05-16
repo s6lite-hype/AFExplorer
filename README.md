@@ -1,4 +1,4 @@
-                                              https://github.com/6lite_hype/AFExplorer
+                                        https://github.com/6lite_hype/AFExplorer
 
 # AFExplorer - Preview
 > [!WARNING]
