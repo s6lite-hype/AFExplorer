@@ -6,7 +6,7 @@
 > Why you might ask? Because some features will break below Windows 10 21H2, but you can try expriment that yourself and see if running this program on windows 10 or below will break or not.
 
 > [!IMPORTANT]
-> This program runs on .NET 9.0.x, install [.NET SDK 9.0 Here.](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) or the program will not run.
+> This program runs on .NET 9.0.x, install [.NET SDK 9.0 Here.](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) or the program will not run (this program does not use single-file executable).
 
 ## What does this program even used for?
 > This program can help you navigate your Android OS by using ADB (or Android Debug Bridge if you want to get nerdy). Basically it can move, copy, or sometimes delete files/folder from your android storage, but remember,  be careful what you're deleting because sometimes you think it isn't important and it actually is, so check before deleting
@@ -14,7 +14,7 @@
 ## I have downloaded the program, what should I do?
 > When you first started the program, you'll see a screen like this:
 
-![](./assets/githubREADME_startFirstTime.jpg)
+![](./assets/startFirstTime.jpg)
 > First thing first, Close the program (if you started it), navigate to the folder and create a new file called  `settings.ini` or the file is already created by the program, if not create it and paste this code
 ```ini
 [Android Debug Bridge Config]
