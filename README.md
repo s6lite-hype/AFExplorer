@@ -1,6 +1,6 @@
                                   https://github.com/6lite_hype/AFExplorer
 
-# AFExplorer - Preview
+# AFExplorer - Preview (Not released yet!)
 > [!WARNING]
 > Please be advised that I shall not be held liable for any form of data loss or damage incurred through the use of this program. Users assume all risks associated with the installation and utilization of the software. It is strongly recommended that users implement comprehensive data backup measures and exercise caution when deploying this program in any environment. By proceeding with the use of this program, users acknowledge and accept full responsibility for any potential adverse effects, including but not limited to data corruption, hardware malfunctions, or system failures. The developer disclaims any liability for incidental, consequential, or special damages of any nature arising from the use or performance of the program.
 
