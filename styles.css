@@ -79,3 +79,7 @@ html {
 .button.large {
     transform: scale(5.5) translateX(150px);
 }
+
+.button.small {
+    transform: scale(2.2) translateX(0px);
+}
