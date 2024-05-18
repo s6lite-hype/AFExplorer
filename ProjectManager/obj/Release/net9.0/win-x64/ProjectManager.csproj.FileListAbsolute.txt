@@ -1,0 +1,11 @@
+G:\C-Sharp\V40\ProjectManager\bin\Release\net9.0\win-x64\ProjectManager.deps.json
+G:\C-Sharp\V40\ProjectManager\bin\Release\net9.0\win-x64\ProjectManager.dll
+G:\C-Sharp\V40\ProjectManager\bin\Release\net9.0\win-x64\ProjectManager.pdb
+G:\C-Sharp\V40\ProjectManager\obj\Release\net9.0\win-x64\ProjectManager.GeneratedMSBuildEditorConfig.editorconfig
+G:\C-Sharp\V40\ProjectManager\obj\Release\net9.0\win-x64\ProjectManager.AssemblyInfoInputs.cache
+G:\C-Sharp\V40\ProjectManager\obj\Release\net9.0\win-x64\ProjectManager.AssemblyInfo.cs
+G:\C-Sharp\V40\ProjectManager\obj\Release\net9.0\win-x64\ProjectManager.csproj.CoreCompileInputs.cache
+G:\C-Sharp\V40\ProjectManager\obj\Release\net9.0\win-x64\ProjectManager.dll
+G:\C-Sharp\V40\ProjectManager\obj\Release\net9.0\win-x64\refint\ProjectManager.dll
+G:\C-Sharp\V40\ProjectManager\obj\Release\net9.0\win-x64\ProjectManager.pdb
+G:\C-Sharp\V40\ProjectManager\obj\Release\net9.0\win-x64\ref\ProjectManager.dll
