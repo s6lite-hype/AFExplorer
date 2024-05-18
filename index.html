@@ -1,9 +1,26 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>Android File Explorer Website - github/AFExplorer</title>
-    <body>
-      <h1> [AFExplorer] A new File Explorer in terminal (CLI) for navigating your android device.</h1>
-    </body>
-  </head>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Device Detection</title>
+    <script>
+        function detectMobileDevice() {
+            const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+            const mobileRegex = /Mobile|Android|iPhone|iPad/i;
+
+            if (mobileRegex.test(userAgent)) {
+                // Block or redirect mobile users
+                document.body.innerHTML = 'Access denied for mobile devices.';
+                // Optionally, you can redirect
+                // window.location.href = 'http://example.com/mobile-blocked';
+            } else {
+                document.body.innerHTML = 'Welcome to the website!';
+            }
+        }
+        window.onload = detectMobileDevice;
+    </script>
+</head>
+<body>
+</body>
 </html>
