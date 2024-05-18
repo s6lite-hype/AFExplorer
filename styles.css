@@ -1,0 +1,81 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('images/px_bg.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.imageView1 {
+    position: relative;
+}
+
+.text {
+    color:white;
+    font-family: 'Jetbrains Mono NL';
+    
+}
+
+.imageView1 img {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateY(-450px) translateX(-360px);
+}
+
+.buttons-container {
+    position: absolute;
+    left: -200px;
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    transition: left 1.5s ease-out;
+}
+
+.button {
+    font-family: 'Jetbrains Mono NL';
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: rgba(95, 95, 95, 0.329);
+    color: #fff;
+    border: none;
+    border-radius: 50px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: transform 0.5s ease, background-color 0.5s ease;
+}
+
+.text {
+    position: absolute;
+    left: -600px;
+    top: 50%;
+    transform: translateY(-340px) translateX(290px);
+    display: flex;
+    flex-direction: column;
+    transition: left 1.5s ease-out;
+}
+
+.text2 {
+    color:white;
+    position: absolute;
+    left: -600px;
+    top: 50%;
+    transform: translateY(-310px) translateX(450px);
+    display: flex;
+    flex-direction: column;
+    transition: left 1.5s ease-out;
+    font-family: 'Jetbrains Mono NL';
+}
+
+.button:hover {
+    background-color: rgb(48, 48, 48);
+}
+
+.button.large {
+    transform: scale(5.5) translateX(150px);
+}
