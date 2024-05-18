@@ -18,9 +18,11 @@ document.addEventListener('DOMContentLoaded', function() {
 function animateButton1(button) {
     button.classList.toggle('large'); // Toggle the 'large' class on button click
     window.location.href = "https://github.com/s6lite-hype/AFExplorer";
+    button.classList.toggle('small');
 }
 
 function animateButton2(button) {
     button.classList.toggle('large'); // Toggle the 'large' class on button click
     window.location.href = "https://github.com/s6lite-hype/AFExplorer/releases/tag/Preview-Release";
+    button.classList.toggle('small');
 }
