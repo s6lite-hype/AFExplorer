@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nlJ7Ma530y4=",
+  "success": true,
+  "projectFilePath": "G:\\C-Sharp\\V40\\ProjectManager\\ProjectManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zafran I 1 Zamrud\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.0-preview.3.24172.9\\microsoft.net.illink.tasks.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\Zafran I 1 Zamrud\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\9.0.0-preview.3.24172.9\\microsoft.netcore.app.runtime.linux-x64.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\Zafran I 1 Zamrud\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\9.0.0-preview.3.24172.13\\microsoft.aspnetcore.app.runtime.linux-x64.9.0.0-preview.3.24172.13.nupkg.sha512"
+  ],
+  "logs": []
+}
