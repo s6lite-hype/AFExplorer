@@ -16,13 +16,13 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // script.js
 function animateButton1(button) {
+    window.location.reload();
     button.classList.toggle('large'); // Toggle the 'large' class on button click
     window.location.href = "https://github.com/s6lite-hype/AFExplorer";
-    window.location.reload();
 }
 
 function animateButton2(button) {
+    window.location.reload();
     button.classList.toggle('large'); // Toggle the 'large' class on button click
     window.location.href = "https://github.com/s6lite-hype/AFExplorer/releases/tag/Preview-Release";
-    window.location.reload();
 }
